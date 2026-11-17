@@ -1,4 +1,3 @@
-
 import math
 from . import verificacion as ver
 
